@@ -1,6 +1,6 @@
 👤 Name: Patrick Pablo Machado Da Silva
 🎓 Education: Highschool
-🔧 Skills: PostGreSQL, JavaScript, Pianist 🎹, Carpenter 🔨
+🔧 Skills: PostGreSQL, JavaScript
 
 👋 Introduction:
 Hi, I’m @PilgrimPablo 👋
