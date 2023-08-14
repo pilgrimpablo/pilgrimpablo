@@ -1,6 +1,6 @@
 👤 **Name:** Patrick Pablo Machado Da Silva
 📚 **Education:** Completed System's Programmer program at Senac University
-🔧 **Skills:** PostGreSQL, JavaScript (Backend Development)
+🔧 **Skills:** PostGreSQL, ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) (Backend Development)
 📫 **Contact:** pablowrld2023@gmail.com
 🌐 **GitHub:** [PilgrimPablo](https://github.com/PilgrimPablo)
 
